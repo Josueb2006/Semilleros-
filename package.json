@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@primevue/themes": "^4.2.2",
+    "primevue": "^4.2.2"
+  },
+  "devDependencies": {
+    "@primevue/nuxt-module": "^4.2.2"
+  }
+}
