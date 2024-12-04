@@ -1,0 +1,319 @@
+[
+  {
+    "facultad": "Educación y Ciencias Humanas",
+    "programa": "Licenciatura en Educación Infantil",
+    "nombre": "Semillero SENTIA",
+    "grupo": "CYMTED-L",
+    "tematicas": [
+      "Infancia, inclusión y diversidad",
+      "Pedagogía y Didáctica para la primera infancia",
+      "Educación inicial, cognición y tecnologías",
+      "Práctica, praxis y transformación docente"
+    ],
+    "mision": "Es un Grupo interdisciplinario de investigación adscrito al Departamento de Psicopedagogía, al programa de Licenciatura en Educación Infantil y al grupo de investigación CyMTED-L de la Maestría en Educación de la Universidad de Córdoba; está conformado por docentes investigadores del departamento de Psicopedagogía, docentes de otros departamentos afines, docentes de Instituciones educativas cooperadoras y por estudiantes del programa de Licenciatura en Educación Infantil en sus diferentes sedes (Montería, Lorica y Sahagún). Como semillero tiene el propósito de fomentar la investigación formativa, el desarrollo de competencias investigativas y el pensamiento crítico e innovador en la presentación de alternativas de solución a los problemas de la educación infantil del Departamento de Córdoba y el área de influencia de la Universidad de Córdoba, con la participación de los estudiantes docentes y estudiantes del programa de Educación Infantil. Por otra parte, como sustento a la identidad del programa en Inclusión y Diversidad, pretende potenciar las capacidades diversas de la educación infantil mediante el desarrollo de recursos educativos inclusivos para la adecuación y ajustes razonables del proceso de enseñanza y aprendizaje en condiciones de igualdad, accesibilidad y equiparación de oportunidades.",
+    "vision": "Ser reconocidos como una alternativa psicopedagógica y social de mejoramiento continuo, profundo y transferible, en el desarrollo de las capacidades diversas y de recursos educativos inclusivos para atender, solucionar problemas y necesidades del entorno local y regional, relacionadas con las actividades rectoras de la educación infantil.",
+    "objetivoGeneral": "Desarrollar propuestas teóricas y metodológicas para el apoyo de la educación inclusiva y el fomento de capacidades diversas en la educación infantil de la región, el área de influencia de la Universidad de Córdoba y su programa de Licenciatura en Educación Infantil.",
+    "objetivosEspecificos": [
+      "Diagnosticar necesidades y factores que generan dificultades para el desarrollo de las capacidades diversas en la educación infantil.",
+      "Diseñar e implementar Metodologías y recursos educativos inclusivos para la potenciación de capacidades diversas en la educación infantil.",
+      "Valorar las Metodologías y recursos educativos inclusivos para la potenciación de capacidades diversas en la educación infantil.",
+      "Gestionar programas, proyectos y planes para el aprovechamiento de Metodologías y recursos educativos inclusivos en la educación infantil.",
+      "Adelantar instrucciones y estudios de investigación formativa con los estudiantes y docentes.",
+      "Participar en eventos de investigación formativos de orden local, regional, nacional o internacional.",
+      "Ejecutar actividades de apoyo y seguimiento a las propuestas y trabajos de investigación de los estudiantes.",
+      "Desarrollar productos de investigación colaborativos (ponencias, artículos, talleres, poster, textos, entre otros) en las temáticas y líneas de investigación definidas por el programa de Licenciatura en educación infantil, para apoyar el desarrollo de competencias investigativas, la investigación formativa y la investigación en estricto de los actores académicos del programa (docentes, estudiantes, egresados y miembros docentes y directivos de instituciones cooperadoras)."
+    ],
+    "estrategias": [
+      "Conformación e inscripción del semillero.",
+      "Desarrollo de un calendario de reuniones periódicas.",
+      "Elaboración de un plan de trabajo.",
+      "Desarrollo de talleres de investigación.",
+      "Implementación de etapas de investigación según proyectos de los participantes.",
+      "Seguimiento de propuestas y proyectos de investigación.",
+      "Participación en eventos de investigación formativa según convocatorias e iniciativas de los miembros.",
+      "Diagnóstico de necesidades.",
+      "Diseño de materiales.",
+      "Implementación de metodologías y recursos.",
+      "Valoración de metodologías y recursos.",
+      "Gestión de propuestas."
+    ],
+    "actividades": [
+      "Conformación e inscripción del semillero.",
+      "Desarrollo de un calendario de reuniones periódicas.",
+      "Elaboración de un plan de trabajo.",
+      "Talleres de investigación.",
+      "Implementación de etapas de investigación.",
+      "Seguimiento de proyectos de investigación.",
+      "Participación en eventos formativos."
+    ],
+    "asesor": {
+      "nombre": "Luis Carlos Pacheco Lora",
+      "identificacion": "6889664",
+      "nivelDeFormacion": "Doctorado",
+      "telefono": "3156992794",
+      "correo": "lcpacheco@correo.unicordoba.edu.co"
+    },
+    "coordinador": {
+      "nombre": "Marjeth Ortiz Ávila",
+      "identificacion": "1003292390",
+      "semestre": "VIII",
+      "telefono": "3147268563",
+      "correo": "ortizamarjeth@gmail.com",
+      "vinculacion": "2023"
+    },
+    "integrantes": {
+      "docentes": [
+        {
+          "nombre": "Martha Cecilia Pacheco Lora",
+          "identificacion": "34976522",
+          "nivelAcademico": "Doctorado",
+          "telefono": "3174689018",
+          "correo": "mpachecolora@gmail.com",
+          "vinculacion": "2020"
+        },
+        {
+          "nombre": "Amparo López de Moreno",
+          "identificacion": "34974170",
+          "nivelAcademico": "Maestría",
+          "telefono": "3215901380",
+          "correo": "amparolopez@correo.unicordoba.edu.co",
+          "vinculacion": "2020"
+        },
+        {
+          "nombre": "Erika Tatiana Garavito Campillo",
+          "identificacion": "1037597616",
+          "nivelAcademico": "Maestría",
+          "telefono": "3205144441",
+          "correo": "erikcampillo@hotmail.com",
+          "vinculacion": "2020"
+        },
+        {
+          "nombre": "Leonardo José Carrascal Cabrales",
+          "identificacion": "10779953",
+          "nivelAcademico": "Maestría",
+          "telefono": "",
+          "correo": "Leonardojose0320@hotmail.com",
+          "vinculacion": "2020"
+        },
+        {
+          "nombre": "Jesús Fernando Kerguelén Soto",
+          "identificacion": "1067857589",
+          "nivelAcademico": "Maestría",
+          "telefono": "3215647367",
+          "correo": "Kergue16@hotmail.com",
+          "vinculacion": "2021"
+        }
+      ],
+      "egresados": [
+        {
+          "nombre": "Nataly Hernández Prado",
+          "identificacion": "1066575871",
+          "nivelAcademico": "Licenciatura en educación artística",
+          "telefono": "3225726105",
+          "correo": "nataly19980923@gmail.com",
+          "vinculacion": "2022"
+        },
+        {
+          "nombre": "Lorena Tobío Chín",
+          "identificacion": "1067842945",
+          "nivelAcademico": "Licenciatura en educación infantil",
+          "telefono": "3013855903",
+          "correo": "lorena1985m73@gmail.com",
+          "vinculacion": "2021"
+        },
+        {
+          "nombre": "María José Ávila",
+          "identificacion": "1067948870",
+          "nivelAcademico": "Licenciatura en educación infantil",
+          "telefono": "3116934531",
+          "correo": "ma_Joseavila@hotmail.com",
+          "vinculacion": "2021"
+        }
+      ],
+      "estudiantes": [
+        {
+          "nombre": "Marley Arias Romero",
+          "identificacion": "1063163049",
+          "semestre": "Licenciatura educación infantil",
+          "telefono": "3145190817",
+          "correo": "makar16@hotmail.com",
+          "vinculacion": "2022"
+        },
+        {
+          "nombre": "Marjeth Ortiz Ávila",
+          "identificacion": "1003292390",
+          "semestre": "Licenciatura educación infantil",
+          "telefono": "3147268563",
+          "correo": "ortizamarjeth@gmail.com",
+          "vinculacion": "2023"
+        },
+        {
+          "nombre": "Angie Paola Galindo Díaz",
+          "identificacion": "1003070643",
+          "semestre": "Licenciatura educación infantil",
+          "telefono": "3008142979",
+          "correo": "agalindodiaz43@correo.unicordoba.edu.co",
+          "vinculacion": "2023"
+        },
+        {
+          "nombre": "Natalia Galeano Martínez",
+          "identificacion": "1003099476",
+          "semestre": "Licenciatura educación infantil",
+          "telefono": "3218138616",
+          "correo": "ngaleanomartinez76@correo.unicordoba.edu.co",
+          "vinculacion": "2024"
+        },
+        {
+          "nombre": "Camila Andrea Díaz Díaz",
+          "identificacion": "1007390116",
+          "semestre": "Licenciatura educación infantil",
+          "telefono": "",
+          "correo": "cdiazdiaz011@gmail.com",
+          "vinculacion": "2023"
+        }
+      ]
+    },
+    "proyectos": [
+      {
+        "nombre": "Taller de formación “Creaciones Literarias Inclusivas”",
+        "tipo": "Extensión",
+        "estado": "Terminado",
+        "campoSaber": "Educación Inclusiva"
+      },
+      {
+        "nombre": "Taller de formación y divulgación “Creaciones Literarias Inclusivas”",
+        "tipo": "Extensión",
+        "estado": "En curso",
+        "campoSaber": "Educación Inclusiva"
+      },
+      {
+        "nombre": "Elaboración de materiales didácticos inclusivos para la clase de preescolar en la sede Tres Bindes del colegio Santa Fe de Montería",
+        "tipo": "Investigación",
+        "estado": "En curso",
+        "campoSaber": "Didáctica inclusiva"
+      },
+      {
+        "nombre": "Ensamble de cumbia en percusión folclórica y voz con estudiantes de discapacidad visual",
+        "tipo": "Investigación",
+        "estado": "En curso",
+        "campoSaber": "Recursos inclusivos"
+      },
+      {
+        "nombre": "La falta de interacción social con el niño y su efecto en el aprendizaje",
+        "tipo": "Investigación",
+        "estado": "En curso",
+        "campoSaber": "Pedagogía y psicología del aprendizaje"
+      },
+      {
+        "nombre": "Relaciones interpersonales en el desarrollo cognitivo de niños con y sin discapacidad",
+        "tipo": "Investigación",
+        "estado": "En curso",
+        "campoSaber": "Didáctica inclusiva"
+      },
+      {
+        "nombre": "Metodologías en la educación inicial con niños que presentan discapacidad",
+        "tipo": "Investigación",
+        "estado": "En curso",
+        "campoSaber": "Didáctica inclusiva"
+      },
+      {
+        "nombre": "Educación sexual infantil para niños y niñas de 5 años del grado transición en el Centro Educativo Mata de Caña del municipio de Lorica, Córdoba",
+        "tipo": "Investigación",
+        "estado": "En curso",
+        "campoSaber": "Pedagogía y didáctica"
+      },
+      {
+        "nombre": "Políticas públicas y prácticas docentes para la actualización en la formación de docentes y la implementación de nuevos métodos en el aula de clase",
+        "tipo": "Investigación",
+        "estado": "Propuesta",
+        "campoSaber": "Políticas públicas y Práctica pedagógica"
+      },
+      {
+        "nombre": "La motivación dentro de las relaciones alumno-docente como estimulador de los procesos de aprendizaje de los grados iniciales de la ciudad de Montería",
+        "tipo": "Investigación",
+        "estado": "Propuesta",
+        "campoSaber": "Pedagogía y didáctica"
+      }
+    ],
+    "publicaciones": [
+      {
+        "titulo": "Libro: El Bosque Inclusivo. Narraciones para fomentar la inclusión en la escuela.",
+        "anio": "2021",
+        "medio": "Editorial Zenú"
+      },
+      {
+        "titulo": "Literatura Infantil y Deporte Inclusivo: estrategias didácticas para fomentar la inclusión, el respeto a la diferencia y a la diversidad en la educación infantil.",
+        "anio": "2021",
+        "medio": "Memoria. Ponencia. IV simposio internacional de investigación educativa y pedagógica."
+      },
+      {
+        "titulo": "Musicoterapia: Estrategia didáctica para la inclusión de estudiantes con discapacidades.",
+        "anio": "2019",
+        "medio": "II Convención Internacional de Educación Inclusiva"
+      },
+      {
+        "titulo": "La musicoterapia como estrategia didáctica en el aula a partir de una práctica pedagógica inclusiva.",
+        "anio": "2020",
+        "medio": "Ponencia: 8 Encuentro Institucional y 7 Distrital de Semilleros de Investigación"
+      },
+      {
+        "titulo": "Sensibilización a través del deporte inclusivo a los docentes en formación, programa Licenciatura en Educación Infantil",
+        "anio": "2019",
+        "medio": "Ponencia: II Convención Internacional de Educación Inclusiva CIEI"
+      },
+      {
+        "titulo": "Elaboración de materiales didácticos inclusivos para la clase de preescolar",
+        "anio": "2020",
+        "medio": "Ponencia: 1er Encuentro interinstitucional de semilleros de investigación"
+      },
+      {
+        "titulo": "Variantes Inclusivas como ajustes razonables en la sesión de psicomotricidad",
+        "anio": "2020",
+        "medio": "Ponencia: 5 encuentro interinstitucional de semilleros de investigación"
+      },
+      {
+        "titulo": "La lúdica y la recreación vista con los ojos del alma",
+        "anio": "2020",
+        "medio": "Ponencia. 5 encuentro interinstitucional de semilleros de investigación"
+      },
+      {
+        "titulo": "NEUROEDUCACIÓN, MOTRICIDAD Y DEPORTE INFANTIL",
+        "anio": "2019",
+        "medio": "Ponencia. Congreso Latinoamericano"
+      },
+      {
+        "titulo": "Taller de formación y divulgación “Creaciones Literarias Inclusivas”",
+        "anio": "2021",
+        "medio": "Proyecto de Extensión: Convocatoria para proyectos de extensión “Córdoba transformada 2021”"
+      },
+      {
+        "titulo": "Educación Sexual Infantil para niños y niñas de 5 años del grado transición en el Centro Educativo Mata de Caña del municipio de Lorica, Córdoba",
+        "anio": "2023",
+        "medio": "Ponencia. Tercer congreso nacional de semilleros de investigación y emprendimiento CONASIE 2023"
+      },
+      {
+        "titulo": "Políticas públicas y prácticas docentes para la actualización en la formación de docentes y la implementación de nuevos métodos en el aula de clase",
+        "anio": "2023",
+        "medio": "Ponencia. Tercer congreso nacional de semilleros de investigación y emprendimiento CONASIE 2023"
+      },
+      {
+        "titulo": "La motivación dentro de las relaciones alumno-docente como estimulador de los procesos de aprendizaje de los grados iniciales de la ciudad de Montería",
+        "anio": "2023",
+        "medio": "Ponencia. Tercer congreso nacional de semilleros de investigación y emprendimiento CONASIE 2023"
+      },
+      {
+        "titulo": "Gestión de prácticas inclusivas en la educación infantil: desarrollo de experiencias en la Institución Educativa Los Garzones de la ciudad de Montería",
+        "anio": "2024",
+        "medio": "Ponencia. II Encuentro Internacional de Facultades de Educación"
+      }
+    ]
+  }
+] {"iento CONASIE 2023"
+      },
+      {
+        "titulo": "Políticas públicas y prácticas docentes para la actualización en la formación de docentes y la implementación de nuevos métodos en el aula de clase",
+        "anio": "2023",
+        "medio": "Ponencia. Tercer congreso nacional de semilleros de investigación y emprendimiento CONASIE 2023"
+      },
+      {
+        "titulo": "La motivación dentro de las relaciones alumno-docente como estimulador de los procesos de aprendizaje de los grados iniciales de la ciudad de Montería"}

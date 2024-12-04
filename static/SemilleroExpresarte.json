@@ -1,0 +1,115 @@
+[
+  {
+    "facultad": "Educación y Ciencias Humanas",
+    "programa": "Licenciatura en Educación Artistica",
+    "nombre": "EXPRESARTE",
+    "grupo": "Cumbiambullé",
+    "tematicas": [
+      "Pedagogia y didactica de las artes plásticas",
+      "Historia del arte"
+    ],
+    "mision": "Fortalecer la investigación en el programa de Licenciatura en Educación Artística a través del semillero Expresarte con el fin de liderar procesos de enseñanza, transformación social, pedagogía, investigación y extensión; con valores éticos y espíritu creativo, sensible e innovador propendiendo por la preservación, divulgación y consolidación de las diversas manifestaciones socio-culturales y artísticas de la región del Caribe y del país.",
+    "vision": "Para el año 2026 los semilleros de investigacón de la Licenciatura en Educación Artística adscritos al departamento de Artes habrán generado transformación social y cultural por medio de la pedagogía, la investigación y la extensión y la divulgación de las manifestaciones artísticas de la región, siendo reconocidos por el impacto en concordancia con las nuevas tecnologías y las necesidades del sector productivo.",
+    "objetivoGeneral": "Potenciar en los estudiantes el espíritu creativo, crítico e investigativo para la realización de sus proyectos basados en los conceptos y experiencias abordadas en los procesos de enseñanza-aprendizaje de la carrera.",
+    "objetivosEspecificos": [
+      "Identificar la importancia de la investigación en los procesos académicos, artísticos y culturales.",
+      "Fortalecer la interacción social a través de los trabajos de investigación en equipo.",
+      "Generar el desarrollo de habilidades para el trabajo intelectual y de conocimiento en la transformación de las realidades."
+    ],
+    "estrategias": [
+      "Reuniones periódicas con los integrantes del semillero para liderar los procesos de construcción y presentación de proyectos.",
+      "Conformación de equipos de trabajo según las líneas de investigación abordadas.",
+      "Revisiones bibliográficas."
+    ],
+    "actividades": [
+      "Participación de estudiantes en evento nacional y/o internacional.",
+      "Reuniones una vez al mes para revisión de avances proyectos liderados por el semillero.",
+      "Participación activa de estudiantes en eventos de investigación liderados por el programa.",
+      "Intercambio de conocimientos y experiencias con semilleros de investigación relacionados con las artes plásticas de entidades y/o universidades."
+    ],
+    "asesor": {
+      "nombre": "Karent Torregroza Villarreal",
+      "identificacion": "32885146",
+      "nivelDeFormacion": "Estudiante de Doctorado",
+      "telefono": "3003041025",
+      "correo": "karenttorregroza@correo.unicordoba.edu.co"
+    },
+    "coordinador": {
+      "nombre": "Ivan Leonardo Lopez",
+      "identificacion": "1067886962",
+      "semestre": "8",
+      "telefono": "3218258509",
+      "correo": "ivale17@hotmail.com",
+      "vinculacion": "08/02/2022"
+    },
+    "integrantes": {
+      "docentes": [],
+      "egresados": [],
+      "estudiantes": [
+        {
+          "nombre": "Ana Milena Fernandez Tirado",
+          "identificacion": "1003292758",
+          "semestre": "7",
+          "telefono": "3225002535",
+          "correo": "anamilenafernandeztirado@outlook.com",
+          "vinculacion": "08/02/2022"
+        },
+        {
+          "nombre": "Ana Milena Ledesma Amado",
+          "identificacion": "1018451609",
+          "semestre": "7",
+          "telefono": "3103099160",
+          "correo": "aledesmaamado08@correo.unicordoba.edu.co",
+          "vinculacion": "08/02/2022"
+        },
+        {
+          "nombre": "Lulys Karina Salgado Pereira",
+          "identificacion": "1064984925",
+          "semestre": "5",
+          "telefono": "3103570062",
+          "correo": "lulyskarina@gmail.com",
+          "vinculacion": "08/02/2022"
+        },
+        {
+          "nombre": "Isabella Vanessa Gonzalez Gonzalez",
+          "identificacion": "1042241875",
+          "semestre": "5",
+          "telefono": "3216256269",
+          "correo": "isabellagonzalezg23@gmail.com",
+          "vinculacion": "08/02/2022"
+        },
+        {
+          "nombre": "Paula Andrea Fuentes Vergara",
+          "identificacion": "1003004160",
+          "semestre": "7",
+          "telefono": "3005294915",
+          "correo": "pfuentesvergara60@correo.unicordoba.edu.co",
+          "vinculacion": "08/02/2022"
+        },
+        {
+          "nombre": "Ivan Leonardo Lopez Martinez",
+          "identificacion": "1067886962",
+          "semestre": "8",
+          "telefono": "3218258509",
+          "correo": "ivale17@hotmail.com",
+          "vinculacion": "08/02/2022"
+        }
+      ]
+    },
+    "proyectos": [
+      {
+        "nombre": "Viaje a través del arte",
+        "tipo": "propuesta de investigación",
+        "estado": "en curso",
+        "campoSaber": "Didáctica de las Artes Plásticas - Historia del Arte"
+      },
+      {
+        "nombre": "Estudio iconográfico de la cultura zenú petroglifos del cerro las pinturas en San Carlos- Cordoba",
+        "tipo": "propuesta de investigación",
+        "estado": "en curso",
+        "campoSaber": "Historia del Arte"
+      }
+    ],
+    "publicaciones": []
+  }
+]

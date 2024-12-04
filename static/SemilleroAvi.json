@@ -1,0 +1,218 @@
+{
+    "facultad": "Educación y Ciencias Humanas",
+    "programa": "Licenciatura en Informática",
+    "nombre": "AVI: Ambientes Virtuales Interactivos",
+    "grupo": "EduTLan: Education, Technology and Language",
+    "tematicas": [
+      "Ambientes Virtuales de Aprendizaje",
+      "eLearning",
+      "Transmedia Educativa",
+      "Software Educativo",
+      "Inteligencia Artificial en Educación",
+      "Tecnologías de la Información y Comunicación, Educación",
+      "Diseño de propuestas y modelos para la incorporación e integración de la informática al currículo"
+    ],
+    "mision": "Formar líderes altamente comprometidos con la investigación, el trabajo en equipo, la adquisición constante de conocimiento y el aprendizaje autónomo que estén diseñando, produciendo y compartiendo nuevos desarrollos y conocimientos en el campo de la innovación educativa con Tecnologías de Información y Comunicación (TIC) e Inteligencia Artificial (IA) para contribuir al desarrollo de recursos educativos digitales interactivos, abiertos, transmedia e hipermedia, alineados con la cuarta revolución industrial y la sustentabilidad global.",
+    "vision": "Ser un semillero que se destaque y llegar a ser reconocido a nivel nacional e internacional en la formación de investigadores en la producción de software y Material Audiovisual.",
+    "objetivoGeneral": "Cultivar competencias científicas que permitan la publicación de nuevo conocimiento y el desarrollo de productos dentro de las líneas de investigación del semillero.",
+    "objetivosEspecificos": [
+      "Desarrollar proyectos de investigación enfocados en áreas de interés del semillero.",
+      "Realizar la escritura y publicación de artículos científicos relacionados con la investigación.",
+      "Participar en el desarrollo de ponencias en eventos académicos.",
+      "Crear y producir software y ambientes virtuales interactivos.",
+      "Diseñar guías metodológicas que fusionen educación y tecnología.",
+      "Compilar y publicar un libro que presente los productos y logros del semillero."
+    ],
+    "estrategias": [
+      "Desarrollo de productividad académica y tecnológica a través de la investigación formativa.",
+      "Asistencia a eventos locales, nacionales e internacionales.",
+      "Divulgación de resultados de investigación a través de revistas científicas y eventos académicos."
+    ],
+    "actividades": [
+      "Sesión de planificación estratégica para definir enfoques y prioridades.",
+      "Investigación y revisión bibliográfica sobre temáticas clave.",
+      "Desarrollo de proyectos y recursos educativos.",
+      "Participación en eventos académicos y conferencias.",
+      "Publicación de artículos científicos y ponencias."
+    ],
+    "asesor": {
+      "nombre": "Juan Carlos Giraldo C.",
+      "identificacion": "18498047",
+      "nivelDeFormacion": "Magister y Candidato a Doctor",
+      "telefono": "3145748936",
+      "correo": "jgiraldo@correo.unicordoba.edu.co"
+    },
+    "coordinador": {
+      "nombre": "Daniel Jose Toledo Castilla",
+      "identificacion": "1062425030",
+      "semestre": "Sexto semestre",
+      "telefono": "3004512697",
+      "correo": "dtoledocastilla@correo.unicordoba.edu.co",
+      "vinculacion": "05 de Octubre del 2023"
+    },
+    "integrantes": {
+      "docentes": [
+        {
+          "nombre": "Isabel Cristina Muñoz Vargas",
+          "identificacion": "41928124",
+          "nivelDeFormacion": "Magister",
+          "telefono": "3114271791",
+          "correo": "icristina@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Linda Luz Lee",
+          "identificacion": "50940153",
+          "nivelDeFormacion": "Magister",
+          "telefono": "3002762130",
+          "correo": "llee@correo.unicordoba.edu.co"
+        }
+      ],
+      "estudiantes": [
+        {
+          "nombre": "José Luis Mercado Ibarra",
+          "identificacion": "1068416427",
+          "semestre": "Octavo semestre",
+          "telefono": "3132206478",
+          "correo": "jmercadoibarra@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Yoimer Yamith Ayazo Torres",
+          "identificacion": "1003394690",
+          "semestre": "Séptimo semestre",
+          "telefono": "3043912740",
+          "correo": "yayazotorres90@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "María Juliana Martínez Herazo",
+          "identificacion": "1003503725",
+          "semestre": "Séptimo semestre",
+          "telefono": "3122250756",
+          "correo": "mmartinezherazo25@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Camila Andrea Rivera Torres",
+          "identificacion": "1069464988",
+          "semestre": "Séptimo semestre",
+          "telefono": "3004190700",
+          "correo": "criveratorres88@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Roberto Carlos Roqueme Fajardo",
+          "identificacion": "1003000617",
+          "semestre": "Octavo semestre",
+          "telefono": "3226332728",
+          "correo": "rroquemefajardo17@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "David José Mendez Florez",
+          "identificacion": "1002998253",
+          "semestre": "Séptimo semestre",
+          "telefono": "3160530726",
+          "correo": "dmendezflorez53@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Carlos Julián Ramos González",
+          "identificacion": "1003395823",
+          "semestre": "Onceavo semestre",
+          "telefono": "3146491024",
+          "correo": "cramosgonzales@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Viveth Sofia Segovia Argumedo",
+          "identificacion": "1062970206",
+          "semestre": "Séptimo semestre",
+          "telefono": "3117127716",
+          "correo": "vsegoviaargumedo@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Kátherin Tobio Doria",
+          "identificacion": "1003717633",
+          "semestre": "Séptimo semestre",
+          "telefono": "3113464682",
+          "correo": "ktobiodoria33@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Jhonnys Javier Padilla Pitalua",
+          "identificacion": "1007629710",
+          "semestre": "Décimo semestre",
+          "telefono": "3102923346",
+          "correo": "jjpadillapitalua@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Jose Enrique Argel Burgos",
+          "identificacion": "1003713778",
+          "semestre": "Décimo semestre",
+          "telefono": "3225455098",
+          "correo": "jargelburgos78@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Jose Daniel Almanza Avila",
+          "identificacion": "1003189722",
+          "semestre": "Noveno semestre",
+          "telefono": "3046002539",
+          "correo": "jalmanzaavila@correo.unicordoba.edu.co"
+        },
+        {
+          "nombre": "Dor María Luna Genes",
+          "identificacion": "1003097107",
+          "semestre": "Noveno semestre",
+          "telefono": "3235030322",
+          "correo": "dlunagenes@correo.unicordoba.edu.co"
+        }
+      ]
+    },
+    "proyectos": [
+      {
+        "nombre": "Propuesta metodológica basada en el enfoque STEM+ para la enseñanza de la robótica en el área de tecnología e informática",
+        "tipo": "Proyecto de Investigación",
+        "estado": "Investigación en Curso",
+        "campoSaber": "Integración de TIC al Currículo"
+      },
+      {
+        "nombre": "Diseño de un Objeto Virtual de Aprendizaje para la enseñanza de la programación y el fortalecimiento del pensamiento computacional en estudiantes de básica primaria",
+        "tipo": "Proyecto de Investigación",
+        "estado": "Investigación en Curso",
+        "campoSaber": "Desarrollo de Recursos Educativos Digitales"
+      },
+      {
+        "nombre": "Diseño de estrategias didácticas con incorporación de las tecnologías de la información y la comunicación (TIC) para la enseñanza-aprendizaje de la suma y resta de números enteros en estudiantes con limitaciones visuales",
+        "tipo": "Proyecto de Investigación",
+        "estado": "Investigación en Curso",
+        "campoSaber": "Integración de TIC al Currículo"
+      }
+    ],
+    "publicaciones": [
+      {
+        "titulo": "TESPIS UNA PROPUESTA DIDÁCTICA DE LIEMAV",
+        "año": 2018,
+        "medio": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1266"
+      },
+      {
+        "titulo": "ESPACIO VIRTUAL COMO APOYO A LA FORMACIÓN DEL DESARROLLO AUDITIVO Y MEMORIA MUSICAL EN EL AULA DE CLASE",
+        "año": 2018,
+        "medio": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1273"
+      },
+      {
+        "titulo": "MOOC como estrategia de aprendizaje en educación superior",
+        "año": 2020,
+        "medio": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1920"
+      },
+      {
+        "titulo": "LEARNING ANALITYCS Y SUS APORTES A LA EVALUACIÓN Y LA INCLUSIÓN EN EDUCACIÓN SUPERIOR",
+        "año": 2022,
+        "medio": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/2617"
+      },
+      {
+        "titulo": "Estrategia metodológica para implementar las TIC como ajuste razonable en los procesos de enseñanza-aprendizaje de las personas con discapacidad visual",
+        "año": 2020,
+        "medio": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/2226"
+      },
+      {
+        "titulo": "Diseño de un videojuego que contribuya a mejorar el desempeño académico en matemáticas, en el tema de multiplicación a estudiantes de grado 3°",
+        "año": 2020,
+        "medio": "https://revistas.unicordoba.edu.co/index.php/asinf/article/view/1813"
+      }
+    ]
+  }
+  
+  
